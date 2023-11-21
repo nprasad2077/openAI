@@ -130,6 +130,9 @@ venv.bak/
 /openai_venv
 ./openai_venv
 openai_venv
+openAI_venv/
+./openAI_venv
+openAI_venv
 
 # Spyder project settings
 .spyderproject
